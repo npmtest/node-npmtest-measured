@@ -1,4 +1,7 @@
-# test coverage for  [measured (v1.1.0)](https://github.com/felixge/node-measured)  [![npm package](https://img.shields.io/npm/v/npmtest-measured.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-measured) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-measured.svg)](https://travis-ci.org/npmtest/node-npmtest-measured)
+# npmtest-measured
+
+#### test coverage for  [measured (v1.1.0)](https://github.com/felixge/node-measured)  [![npm package](https://img.shields.io/npm/v/npmtest-measured.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-measured) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-measured.svg)](https://travis-ci.org/npmtest/node-npmtest-measured)
+
 #### This is an alternative port of Coda Hale's metrics library.
 
 [![NPM](https://nodei.co/npm/measured.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/measured)
